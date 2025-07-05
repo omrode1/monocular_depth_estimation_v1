@@ -346,5 +346,28 @@ scipy>=1.7.0
 - **PyTorch**: Deep learning framework
 - **OpenCV**: Computer vision library
 
+## Test and Comparison Results
+
+Below are the key test and comparison images generated during model evaluation:
+
+### Model Output and Evaluation
+
+**Test Results:**
+
+| Test Image 1 | Test Image 2 | Test Image 3 |
+|--------------|--------------|--------------|
+| ![Test Results 1](test_results_1.png) | ![Test Results 2](test_results_2.png) | ![Test Results 3](test_results_3.png) |
+| ![Test Results 4](test_results_4.png) | ![Test Results 5](test_results_5.png) | ![Test Results 6](test_results_6.png) |
+
+**Aspect Ratio Comparison:**
+
+![Aspect Ratio Comparison](aspect_ratio_comparison.png)
+
+**Approach Comparison:**
+
+![Approach Comparison](approach_comparison.png)
+
+*Each image above demonstrates the model's performance on different test cases, aspect ratio handling, and comparison between different approaches or settings.*
+
 
 
